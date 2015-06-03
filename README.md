@@ -1,4 +1,5 @@
 # LogicNow-Challenge
+Challenge for an internship at LogicNow
 
 __Objective__ : Write a class that persists its data to the following table. It should use a DB interface such as mysqli or ADO to do that.
 
